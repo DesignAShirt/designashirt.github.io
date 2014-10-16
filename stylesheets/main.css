@@ -1,0 +1,27 @@
+body { 
+  max-width: none !important;
+}
+
+body>header {
+  background-color: none;
+  background-image: url(//www.designashirt.com/website_images/d3/bkg.png);
+  background-repeat: repeat;
+}
+
+body>nav {
+  background: #ed1b33;
+}
+
+body>nav a,
+body>nav a:visited {
+  color: #fff;
+  text-shadow: none;
+}
+
+body>nav li+li {
+  border-color: #fff;
+}
+
+body>nav form .search {
+  box-shadow: none;
+}

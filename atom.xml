@@ -1,16 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://DesignAShirt.github.io/atom.xml" rel="self"/>
-  <link href="http://DesignAShirt.github.io/"/>
-  <updated>2014-09-29T10:42:26-07:00</updated>
-  <id>http://DesignAShirt.github.io/</id>
+  <title><![CDATA[Engineering]]></title>
+  <link href="http://designashirt.github.io/atom.xml" rel="self"/>
+  <link href="http://designashirt.github.io/"/>
+  <updated>2014-10-16T16:12:47-07:00</updated>
+  <id>http://designashirt.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[designashirt.com]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Weeeeee]]></title>
+    <link href="http://designashirt.github.io/blog/2014/10/16/weeeeee/"/>
+    <updated>2014-10-16T10:54:27-07:00</updated>
+    <id>http://designashirt.github.io/blog/2014/10/16/weeeeee</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://designashirt.github.io/blog/2014/09/22/hello-world/"/>
+    <updated>2014-09-22T00:00:00-07:00</updated>
+    <id>http://designashirt.github.io/blog/2014/09/22/hello-world</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
